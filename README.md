@@ -6,3 +6,5 @@
 
 ![AWS APN Technical Foundations 003](https://user-images.githubusercontent.com/93165498/144624907-eb8fdc9c-cd54-4b38-987d-cf3df77597b0.jpg)
 
+![AWS APN Technical Foundations 004](https://user-images.githubusercontent.com/93165498/144624920-01e7cf81-0fe3-428b-a0a5-65a0f6517198.jpg)
+
