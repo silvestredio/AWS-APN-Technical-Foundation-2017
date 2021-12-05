@@ -64,4 +64,13 @@
 
 ![AWS Training Technical Foundations 32](https://user-images.githubusercontent.com/93165498/144711702-ca927eb8-d0da-4dea-aa30-0fb35cd52434.jpg)
 
-![AWS Training Technical Foundations 33](https://user-images.githubusercontent.com/93165498/144711705-b7a7f78c-ecbd-41d7-9422-5d77ca686b00.jpg)
+![AWS Training Technical Foundations 33](https://user-images.githubusercontent.com/93165498/144711705-b7a7f78c-ecbd-41d7-9422-5d77ca686b00.jpg) 
+
+![AWS Training Technical Foundations 34](https://user-images.githubusercontent.com/93165498/144751093-15cdc50d-3123-46ac-8847-7ddce3b11fc9.jpg)
+
+![AWS Training Technical Foundations 35](https://user-images.githubusercontent.com/93165498/144751095-840d397d-b55a-494c-bcff-3d8ab596b089.jpg)
+
+![AWS Training Technical Foundations 36](https://user-images.githubusercontent.com/93165498/144751097-95ff9588-be4c-4542-a230-695a8b0782ee.jpg)
+
+![AWS Training Technical Foundations 37](https://user-images.githubusercontent.com/93165498/144751102-890e085a-a411-4e43-a3d8-ddc9b1cc3060.jpg)
+
