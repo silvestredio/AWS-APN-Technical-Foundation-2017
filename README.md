@@ -200,3 +200,13 @@
 
 ![AWS Training Technical Foundations 100](https://user-images.githubusercontent.com/93165498/145036577-ff1d6994-645f-43eb-a122-d4bed098f8f3.jpg)
 
+![AWS Training Technical Foundations 101](https://user-images.githubusercontent.com/93165498/145036590-cfbfbf45-9d7a-4071-978b-ddc3bdc1cb8c.jpg)
+
+![AWS Training Technical Foundations 102](https://user-images.githubusercontent.com/93165498/145036607-b5753e19-4bfc-4207-88e6-34829f3e54b5.jpg)
+
+![AWS Training Technical Foundations 103](https://user-images.githubusercontent.com/93165498/145036658-928bec4e-803a-45e8-9640-ae58106d78c2.jpg)
+
+![AWS Training Technical Foundations 104](https://user-images.githubusercontent.com/93165498/145036673-0d4787e3-5244-4d7b-aa51-6b1c9a9f7df9.jpg)
+
+![AWS Training Technical Foundations 105](https://user-images.githubusercontent.com/93165498/145036691-1b7f364d-8c29-4287-a3eb-8de773dec5e7.jpg)
+
